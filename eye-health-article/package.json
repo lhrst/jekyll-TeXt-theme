@@ -1,0 +1,12 @@
+{
+    "name": "eye-health-article",
+    "version": "1.0.0",
+    "description": "6·6全国爱眼日公众号推文 H5 页面 - 深圳市眼科医院",
+    "private": true,
+    "scripts": {
+        "dev":   "npx serve . -l 3000",
+        "start": "npx serve . -l 3000",
+        "build": "echo 'Static site - no build step required'"
+    },
+    "license": "MIT"
+}
